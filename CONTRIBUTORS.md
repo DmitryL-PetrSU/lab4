@@ -4,4 +4,4 @@
 # Chekmarev A. V. https://github.com/vertoleha-sudo 4
 ## [Naumenko I.M.](https://github.com/IriaKoticov)
 ## Efimov I.S. https://github.com/IgorEfimov25
-## Dyachkov I.S. https://github.com/Igorek2025 
+## Dyachkov I.S. https://github.com/Igorek2025 7
