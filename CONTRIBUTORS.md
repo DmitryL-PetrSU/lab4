@@ -7,3 +7,4 @@
 ## Efimov I.S. https://github.com/IgorEfimov25
 ## Dyachkov I.S. https://github.com/Igorek2025 7
 ## Egorova A.R. https://github.com/Alisa1987-student
+## Ivanov K.D. https://github.com/Jhadino
