@@ -9,3 +9,4 @@
 ## Egorova A.R. https://github.com/Alisa1987-student
 ## Kopyl I.V https://github.com/saelust
 ## Ivanov K.D. https://github.com/Jhadino
+-[Loginov D.A.](https://github.com/dmitriylog)
