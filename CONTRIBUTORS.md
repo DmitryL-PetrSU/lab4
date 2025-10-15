@@ -10,3 +10,4 @@
 ## Kopyl I.V https://github.com/saelust
 ## Ivanov K.D. https://github.com/Jhadino
 ## Egorova A.R. (zachtest) https://github.com/AlIsa1987-student?tab=repositories
+-[Loginov D.A.](https://github.com/dmitriylog)
