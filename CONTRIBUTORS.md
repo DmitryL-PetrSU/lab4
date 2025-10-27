@@ -7,6 +7,7 @@
 ## Efimov I.S. https://github.com/IgorEfimov25
 ## KOrzun A.A  https://github.com/whenyousober
 ## Dyachkov I.S. https://github.com/Igorek2025 7
+## Sizov B.A. https://github.com/bb896 
 ## Egorova A.R. https://github.com/Alisa1987-student
 ## Kopyl I.V https://github.com/saelust
 ## Ivanov K.D. https://github.com/Jhadino
