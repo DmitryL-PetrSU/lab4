@@ -5,6 +5,7 @@
 # Chekmarev A. V. https://github.com/vertoleha-sudo 4
 ## [Naumenko I.M.](https://github.com/IriaKoticov)
 ## Efimov I.S. https://github.com/IgorEfimov25
+## KOrzun A.A  https://github.com/whenyousober
 ## Dyachkov I.S. https://github.com/Igorek2025 7
 ## Egorova A.R. https://github.com/Alisa1987-student
 ## Kopyl I.V https://github.com/saelust
