@@ -15,3 +15,4 @@
 -[Loginov D.A.](https://github.com/dmitriylog)
 [Saralidze M. R.](https://github.com/margaritasaralidze2006-oss)
 -[Ivleva D.A.](https://github.com/Mamedky)
+-[Vasileva J.A.](https://github.com/Juls935)
