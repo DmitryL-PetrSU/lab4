@@ -17,4 +17,4 @@
 -[Ivleva D.A.](https://github.com/Mamedky)
 -[Vasileva J.A.](https://github.com/Juls935)
 -[Silyaeva D.V.](https://github.com/keigth)
-
+-[Kopat P.A.](https://github.com/GhostlyGoose)
