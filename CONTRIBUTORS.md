@@ -18,3 +18,4 @@
 -[Vasileva J.A.](https://github.com/Juls935)
 -[Silyaeva D.V.](https://github.com/keigth)
 -[Kopat P.A.](https://github.com/GhostlyGoose)
+-[Mokeykova V.A.](https://github.com/valeriyamalinovskaya01-afk)
