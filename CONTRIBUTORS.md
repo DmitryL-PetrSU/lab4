@@ -1,3 +1,4 @@
+## Ulyanov V.V. https://github.com/ValerkaSweet
 ## Lobov D.V. https://github.com/ldenis-petrsu 1
 ## Makarov M.S https://github.com/Fadelovers 2
 ## Poluzerov A. Y. https://github.com/Shlyaper 3
@@ -20,3 +21,4 @@
 -[Kopat P.A.](https://github.com/GhostlyGoose)
 -[Mokeykova V.A.](https://github.com/valeriyamalinovskaya01-afk)
 -[Mokeykova2 V.A.](https://github.com/valeriyamalinovskaya01-afk)
+-[Slyuzov D.A.](https://github.com/wernikeyd)
