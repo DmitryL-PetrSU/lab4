@@ -20,3 +20,4 @@
 -[Silyaeva D.V.](https://github.com/keigth)
 -[Kopat P.A.](https://github.com/GhostlyGoose)
 -[Slyuzov D.A.](https://github.com/wernikeyd)
+-[Efremov N.E.](https://github.com/NikitaEfremoV15)
