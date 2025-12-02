@@ -23,3 +23,5 @@
 -[Mokeykova2 V.A.](https://github.com/valeriyamalinovskaya01-afk)
 -[Slyuzov D.A.](https://github.com/wernikeyd)
 -[Efremov N.E.](https://github.com/NikitaEfremoV15)
+-[Dmitriev N.A.](https://github.com/NikitaDMM)
+
