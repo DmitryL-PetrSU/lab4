@@ -25,3 +25,4 @@
 -[Efremov N.E.](https://github.com/NikitaEfremoV15)
 -[Dmitriev N.A.](https://github.com/NikitaDMM)
 
+-[Grigorev I.S.](https://github.com/ignatgrigorev)
