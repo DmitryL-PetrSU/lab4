@@ -27,3 +27,4 @@
 -[Dmitriev N.A.](https://github.com/NikitaDMM)
 
 -[Grigorev I.S.](https://github.com/ignatgrigorev)
+-[Tsupa Vladislav](https://github.com/vladertok)
