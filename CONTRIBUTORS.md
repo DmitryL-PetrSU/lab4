@@ -49,6 +49,7 @@
 
 \[Polyakov I.A.](https://github.com/TAJlAHT)
 -[Zlobin A.A.](https://github.com/v1xlation)
+-[Федоров Никита](https://github.com/bateba42)
 
 Kurchakov D.I. (**https://github.com/mintor18-debug)**
 
