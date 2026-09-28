@@ -49,4 +49,5 @@
 -[Zlobin A.A.](https://github.com/v1xlation)
 
 \- \[Lyadin Evgeni](https://github.com/Rakyla)
+Kurchakov D.I. (**https://github.com/mintor18-debug)**
 
