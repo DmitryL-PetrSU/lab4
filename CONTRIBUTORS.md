@@ -51,3 +51,5 @@
 \- \[Lyadin Evgeni](https://github.com/Rakyla)
 Kurchakov D.I. (**https://github.com/mintor18-debug)**
 
+- [Анастасия Епишина](https://github.com/Anastasia953359)
+
