@@ -53,3 +53,4 @@ Kurchakov D.I. (**https://github.com/mintor18-debug)**
 
 - [Анастасия Епишина](https://github.com/Anastasia953359)
 
+- [Мюзиев Максим](https://github.com/bbububububububububuu)
