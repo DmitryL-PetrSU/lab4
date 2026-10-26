@@ -51,7 +51,8 @@
 \- \[Lyadin Evgeni](https://github.com/Rakyla)
 Kurchakov D.I. (**https://github.com/mintor18-debug)**
 
-- [Анастасия Епишина](https://github.com/Anastasia953359)
+* [Анастасия Епишина](https://github.com/Anastasia953359)
+* [Комаров Вадим](https://github.com/Vadimo4ka)
+* [Мюзиев Максим](https://github.com/bbububububububububuu)
+* \[Malaev David] (https://github.com/MalaevDavid)
 
-- [Комаров Вадим](https://github.com/Vadimo4ka)
-- [Мюзиев Максим](https://github.com/bbububububububububuu)
