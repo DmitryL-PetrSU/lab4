@@ -55,3 +55,4 @@ Kurchakov D.I. (**https://github.com/mintor18-debug)**
 
 - [Комаров Вадим](https://github.com/Vadimo4ka)
 - [Мюзиев Максим](https://github.com/bbububububububububuu)
+- [Куков Георгий](https://github.com/GrigoriShoebill)
